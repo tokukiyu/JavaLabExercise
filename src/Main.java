@@ -7,7 +7,7 @@ public class Main {
         //While and do while loop exercice
         //hello commit
         while(n<10) {
-            
+
             n++;
             //for break or continue;
             if (n == 5) {
